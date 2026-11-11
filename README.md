@@ -17,8 +17,8 @@ Named Entity Recognition means finding names and values in text (people, organiz
 
 | Property | Value |
 |---|---|
-| Sentences | 100 |
-| Domains (10 sentences each) | News, Business, Technology, Sports, Health, Science, Entertainment, Travel, Education & Legal, Informal |
+| Sentences |200 |
+| Domains (20 sentences each) | News, Business, Technology, Sports, Health, Science, Entertainment, Travel, Education & Legal, Informal |
 | Difficulty levels | Easy (clear names), Medium (multi-word names, dates, money), Hard (ambiguous cases) |
 | Entity types | 14 |
 
