@@ -1,5 +1,5 @@
 # ner-annotation-project
-Hand-labeled NER dataset:100 sentences with annotation guidelines.
+Hand-labeled NER dataset:200 sentences with annotation guidelines.
 built to practice consistent, guideline-driven data annotation.
 ---
 
